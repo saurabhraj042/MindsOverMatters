@@ -1,0 +1,12 @@
+.footer {
+    height: 22vh;
+    margin: 0;
+    background-color: #222831;
+}
+
+.ft-div {
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 15px;
+}

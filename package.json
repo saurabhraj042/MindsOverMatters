@@ -1,0 +1,19 @@
+{
+  "name": "mind_over_matters",
+  "version": "1.0.0",
+  "description": "MindOverMatters official website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushd70/MindOverMatters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayushd70/MindOverMatters/issues"
+  },
+  "homepage": "https://github.com/Ayushd70/MindOverMatters#readme"
+}
