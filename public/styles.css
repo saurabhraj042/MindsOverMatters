@@ -1,7 +1,7 @@
 .footer {
     height: 22vh;
     margin: 0;
-    background-color: #222831;
+    background-color: #8bcdcd;
 }
 
 .ft-div {
@@ -9,4 +9,13 @@
     text-align: center;
     letter-spacing: 1px;
     font-size: 15px;
+}
+
+.navbar-brand {
+    position: relative;
+    z-index: 1;
+}
+
+.navbar-collapse form[role="search"] {
+    z-index: 2;
 }
