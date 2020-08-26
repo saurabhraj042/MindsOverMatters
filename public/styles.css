@@ -19,3 +19,39 @@
 .navbar-collapse form[role="search"] {
     z-index: 2;
 }
+.footerstyle{
+    position: relative;
+    color: floralwhite;
+    background-color: black;
+    padding-top: 50px;
+}
+.mainText{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+.copyW{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    color: 	#D3D3D3;
+}
+.bts{
+    
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa {
+    margin-bottom: 30%;
+    margin: 5px;
+    padding: 22px;
+    font-size: 99%;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px;
+    font-size: 25px;
+  }
